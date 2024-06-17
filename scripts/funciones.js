@@ -11,3 +11,5 @@ function sumas(x, y) {
 
 let resultado = sumas(10, 10);
 console.log(resultado);
+
+//Argumentos y parametros

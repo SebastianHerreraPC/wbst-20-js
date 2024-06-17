@@ -12,7 +12,8 @@ console.log(typeof nulo);
 
 //Comentario normal
 
-/**Comentario
+/**
+ * Comentario
  * de varias lineas
  * para js
  */

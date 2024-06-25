@@ -1,9 +1,5 @@
 function cualEsMayor(a, b) {
-  if (a > b) {
-    return a;
-  } else {
-    return b;
-  }
+  return a > b ? a : b;
 }
-let mayor = cualEsMayor(4, 11);
+let mayor = cualEsMayor(12, 11);
 console.log(mayor);

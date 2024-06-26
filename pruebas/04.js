@@ -8,3 +8,14 @@ while (i <= 10) {
   }
   i++;
 }
+
+//Numeros pares
+
+let a = 0;
+
+while (a < 10) {
+  if (a % 2 === 0) {
+    console.log("Es par", a);
+  }
+  a++;
+}
